@@ -1,6 +1,6 @@
 # zoo-starter-code
 
-This repository is the starter code for Assignment 1 - Zoo.
+This repository is Assignment 1 - Zoo.
 
 ### Live Link
 [Website link](https://luckyflower2995.github.io/assignment1-zoo/)
