@@ -1,9 +1,6 @@
 # zoo-starter-code
 
-This repository is Assignment 1 - Zoo.
-
-### Live Link
-[Website link](https://luckyflower2995.github.io/assignment1-zoo/)
+Group Members: Stephanie Lam (LuckyFlower2995)
 
 ----------
 ### 1. Use the following process to ***import*** the Assignment 1 starter code repository to your GitHub account as your starter codebase
