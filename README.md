@@ -1,6 +1,7 @@
 # zoo-starter-code
 
 Group Members: Stephanie Lam (LuckyFlower2995)
+Website: https://luckyflower2995.github.io/assignment1-zoo/index.html
 
 ----------
 ### 1. Use the following process to ***import*** the Assignment 1 starter code repository to your GitHub account as your starter codebase
